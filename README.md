@@ -1,53 +1,32 @@
 # 📝 Technical Writing Portfolio
 
-Welcome to my technical writing portfolio!  
-I’m a Senior Technical Writer with over 3 years of experience creating documentation for aerospace, software, and instructional design projects.
+Welcome to my **Technical Writing Portfolio**!  
+I’m **Priya Dharshini**, a Senior Technical Writer with experience in creating clear, structured, and user-focused documentation across multiple domains.
 
-This repository includes samples of my work created using various tools and formats.
-
----
-
-## 📚 Table of Contents
-
-- [About Me](#about-me)
-- [Tools & Formats](#tools--formats)
-- [Sample Projects](#sample-projects)
-- [Contact](#contact)
+This repository will soon showcase a collection of my work created using a variety of industry-standard tools and formats.
 
 ---
 
 ## 👩‍💻 About Me
-I specialize in developing structured, user-focused documentation including installation guides, maintenance manuals, and instructional content.  
-Experience includes tools such as **Oxygen XML Editor, DITA XML, Adobe FrameMaker, Microsoft Word**, and more.
+
+I specialize in developing professional and technically accurate documents such as user guides, installation manuals, and instructional design content.  
+My experience includes working with structured authoring tools and XML-based documentation, particularly for aerospace and software domains.
 
 ---
 
-## 🧰 Tools & Formats
+## 🧰 Tools & Technologies
 
-| Tool | Format | Example Document |
-|------|---------|------------------|
-| Microsoft Word | User Guide / SOP | [Word Sample](./word-sample/Installation_Guide.pdf) |
-| Oxygen XML | DITA Topic | [Oxygen Sample](./oxygen-dita-sample/dita_topic.dita) |
-| Adobe FrameMaker | Technical Manual | [FrameMaker Sample](./framemaker-sample/maintenance_manual.pdf) |
-| Markdown | README / API Docs | [Markdown Sample](./markdown-sample/api_guide.md) |
+Here are some of the tools and platforms I work with:
 
----
-
-## 📂 Sample Projects
-
-1. **Instructional Design Guide**  
-   - Type: Learning Content  
-   - Tool: Adobe FrameMaker  
-   - Description: Created training module for Dassault internal learning portal.
-
-2. **API User Guide (Sample)**  
-   - Type: Markdown Documentation  
-   - Tool: VS Code  
-   - Description: Demonstrates API documentation structure and clarity.
+- **Oxygen XML Editor** – for XML and DITA-based documentation  
+- **Adobe FrameMaker** – for large-scale, structured manuals  
+- **Microsoft Word** – for SOPs, reports, and guides  
+- **Markdown / HTML** – for lightweight documentation and API guides  
+- **DITA XML** – for topic-based, reusable content management  
 
 ---
 
-## 📬 Contact
-**Priya Dharshini**  
-📧 priya13081999@gmail.com  
-🌐 www.linkedin.com/in/priyadharshini-n-s-5417991b1 
+## 📂 Repository Structure (Coming Soon)
+
+This portfolio will include categorized folders for different tools and document types:
+

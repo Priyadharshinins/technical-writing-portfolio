@@ -10,7 +10,7 @@ This repository will soon showcase a collection of my work created using a varie
 ## 👩‍💻 About Me
 
 I specialize in developing professional and technically accurate documents such as user guides, installation manuals, and instructional design content.  
-My experience includes working with structured authoring tools and XML-based documentation, particularly for aerospace and software domains.
+My experience includes working with structured authoring tools and XML-based documentation, particularly for software domains.
 
 ---
 

@@ -1,32 +1,44 @@
 # 📝 Technical Writing Portfolio
 
-Welcome to my **Technical Writing Portfolio**!  
-I’m **Priya Dharshini**, a Senior Technical Writer with experience in creating clear, structured, and user-focused documentation across multiple domains.
-
-This repository will soon showcase a collection of my work created using a variety of industry-standard tools and formats.
+Welcome to my **Technical Writing Portfolio**, showcasing a collection of professional documentation created to industry standards.  
+Each document reflects my skills in writing, structuring, and presenting technical content for diverse audiences.
 
 ---
 
-## 👩‍💻 About Me
+## 📂 Portfolio Contents
 
-I specialize in developing professional and technically accurate documents such as user guides, installation manuals, and instructional design content.  
-My experience includes working with structured authoring tools and XML-based documentation, particularly for software domains.
+### 1. Quick Reference Guide  
+A concise and visually structured document designed for quick understanding and ease of use.  
+**Highlights:** Task-based layout, clarity, and user-focused tone.
+
+### 2. Installation & Configuration Guide – *Project X App*  
+Step-by-step procedural guide outlining installation, setup, and troubleshooting.  
+**Highlights:** DDLC/SDLC approach, visual hierarchy, and clear flow for end users.
+
+### 3. API Documentation – *User Authentication API*  
+Comprehensive API guide created for developers integrating authentication endpoints.  
+**Highlights:** Request/response examples, version details, and error codes with precise descriptions.
+
+### 4. User Manual – *SmartTrack Device Quick Start Guide*  
+User-friendly manual designed for non-technical audiences.  
+**Highlights:** Visual instructions, simplified explanations, and a structured layout to improve usability.
 
 ---
 
-## 🧰 Tools & Technologies
-
-Here are some of the tools and platforms I work with:
-
-- **Oxygen XML Editor** – for XML and DITA-based documentation  
-- **Adobe FrameMaker** – for large-scale, structured manuals  
-- **Microsoft Word** – for SOPs, reports, and guides  
-- **Markdown / HTML** – for lightweight documentation and API guides  
-- **DITA XML** – for topic-based, reusable content management  
+## 🧠 Tools & Technologies Used
+- Google Docs  
+- Adobe FrameMaker  
+- Oxygen XML Editor  
+- Markdown  
+- MSTP & DDLC Standards  
+- AI-based Documentation Tools (DeepSite, Bubble.io, Vercel)
 
 ---
 
-## 📂 Repository Structure (Coming Soon)
+## 💡 About Me
+I’m a **Software Technical Writer** with over 3.8 years of experience in creating user manuals, release notes, and API documentation.  
+Skilled in DDLC, SDLC, and quality review processes, I collaborate closely with developers, testers, and stakeholders to deliver accurate and user-centric documentation.
 
-This portfolio will include categorized folders for different tools and document types:
+---
 
+📘 *This repository is a demonstration of my documentation style, structure, and attention to clarity in technical communication.*
